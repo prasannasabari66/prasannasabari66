@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prasanna Sabari M A</h1>
-<h3 align="center">A passionate fresher | Frontend Developer (ReactJS , Bootstrap) | Backend Developer - (Python , Django , MySQL, Oracle SQL)</h3>
+<h3 align="center">A passionate fresher | Frontend Developer (ReactJS , Bootstrap) | Backend Developer - (Python , MySQL, Oracle SQL)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathraj0643&label=Profile%20views&color=0e75b6&style=flat" alt="bharathraj0643" /> </p>
 
-- 🔭 I’m currently working on **React + Django E-Commerce website**
+- 🔭 I’m currently working on **React + NodeJS E-Commerce website**
 
-- 🌱 I’m currently learning **Django , Restful API**
+- 🌱 I’m currently learning **Restful API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prasannasabari66](https://github.com/prasannasabari66)
 
